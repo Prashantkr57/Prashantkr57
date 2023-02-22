@@ -7,15 +7,11 @@ Looking forward for oppurtunity to work with an organization in data domain and 
 
 Below are my gains from Cognizant.
 
-✅ Built and maintained SQL queries and data pipelines to extract and transform data from multiple sources.
-
-✅ Created visualizations in Tableau to communicate insights to stakeholders across the organization.
-
-✅ Conducted data analysis on customer behavior to optimize marketing campaigns and improve customer retention.
-
-✅ Developed predictive models using Python to forecast customer churn and identify at-risk customers.
-
-✅ Collaborated with cross-functional teams to implement data-driven solutions and improve business processes.
+* Built and maintained SQL queries and data pipelines to extract and transform data from multiple sources.
+* Created visualizations in Tableau to communicate insights to stakeholders across the organization.
+* Conducted data analysis on customer behavior to optimize marketing campaigns and improve customer retention.
+* Developed predictive models using Python to forecast customer churn and identify at-risk customers.
+* Collaborated with cross-functional teams to implement data-driven solutions and improve business processes.
 
 Education: Bachelor of Engineering, @VTU with 7.56 CGPA.
 

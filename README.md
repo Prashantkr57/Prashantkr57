@@ -1,6 +1,6 @@
 Hi 👋, I am Prashant.
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 I am aspiring Data Scientist looking for opportunity to work with organisation and help with business growth 📈.
 Currently I am wokring as Data Analyst @Cognizant 💻.

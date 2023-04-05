@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHj7WqBTzJAmA/profile-displaybackgroundimage-shrink_350_1400/0/1677951207810?e=1683763200&v=beta&t=id4K-9KAdHA0UxXnCf355hUmrwjI89GUXZoUZwL4LA8)
+![Gray And Black  Simple Personal LinkedIn Banner](https://user-images.githubusercontent.com/67437394/230166130-0a78ec0c-69f0-49ad-b251-1b27028e94f9.jpg)
+
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 

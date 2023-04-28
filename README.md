@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkr57&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkr57" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantkr57" alt="prashantkr57" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/prashantkr57" target="blank"><img src="https://img.shields.io/twitter/follow/prashantkr57?logo=twitter&style=for-the-badge" alt="prashantkr57" /></a> </p>
 
 - 🔭 I’m currently working on **Text Extraction and storing it in relational database for analysis.**

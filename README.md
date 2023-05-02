@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/prashantkr57" target="blank"><img src="https://img.shields.io/twitter/follow/prashantkr57?logo=twitter&style=for-the-badge" alt="prashantkr57" /></a> </p>
 
-- 🔭 I’m currently working on **Text Extraction and storing it in relational database for analysis.**
+- 🔭 I’m currently working in **Cognizant.**
 
-- 🌱 I’m currently learning **Big Data, Deep Learning concepts.**
+- 🎓 B.E. in Mechanical Engineering with first division from **CMR Institute of Technology, Bangalore.**
 
-- 👨‍💻 All of my projects are available at [https://prashantkr57.github.io/portfolio/](https://prashantkr57.github.io/portfolio/)
+- 🌱 I’m currently learning and upskilling myself on **Big Data, Deep Learning concepts.**
 
-- 📝 I regularly write articles on [https://medium.com/@Prashantkr57](https://medium.com/@Prashantkr57)
+- 👨‍💻 All of my personal projects that I have worked on are available at [https://prashantkr57.github.io/portfolio/](https://prashantkr57.github.io/portfolio/)
+
+- 📝 I regularly writes about data science, machine learning, data analysis articles on [https://medium.com/@Prashantkr57](https://medium.com/@Prashantkr57)
 
 - 💬 Ask me about **Data Analysis, SQL, Python, Power BI, Tableau, Machine Learning, Regression, Classification, Neural Networks, Artificial Intelligence, Natural Language Processing.**
 

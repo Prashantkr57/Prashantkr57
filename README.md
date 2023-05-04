@@ -1,11 +1,12 @@
 ![Colorful Shapes Header Banner](https://user-images.githubusercontent.com/67437394/235205480-f1af1426-9a76-4e7c-a1a2-01b2948bcf36.png)
 
-<h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
+<h1 align="center">Hi 👋, This is the Github Readme for Prashant Kumar, a Data Analyst with experience in Life Science, Insurance domain.</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/prashantkr57" target="blank"><img src="https://img.shields.io/twitter/follow/prashantkr57?logo=twitter&style=for-the-badge" alt="prashantkr57" /></a> </p>
 
-- 🔭 I’m currently working in **Cognizant.**
+- 🔭 Prashant Kumar is a Data Analyst experienced in helping businesses make data-driven decisions with a strong background in data science and statistics. He is proficient in tools like **SQL**, **Python**, **Power BI**, **AWS**, and **Microsoft Excel**. He is also familiar with **AGILE methodologies** and **Scrum** practices.
+
+- 🏢 I'm currently working as Data Analyst Associate at **Cognizant**, Pune (Dec 2020 – Present).
 
 - 🎓 B.E. in Mechanical Engineering with first division from **CMR Institute of Technology, Bangalore.**
 

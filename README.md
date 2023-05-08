@@ -1,6 +1,6 @@
 ![Colorful Shapes Header Banner](https://user-images.githubusercontent.com/67437394/235205480-f1af1426-9a76-4e7c-a1a2-01b2948bcf36.png)
 
-<h1 align="center">Hi 👋, This is the Github Readme for Prashant Kumar, a Data Analyst with experience in Life Science, Insurance domain.</h1>
+<h1 align="center">Hi 👋, This is the Github Readme for Prashant Kumar, a Data Analyst with experience in Life Science, Healthcare & Insurance domain.</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 
 

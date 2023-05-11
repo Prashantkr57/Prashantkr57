@@ -4,13 +4,13 @@
 <h3 align="center">A passionate Data Scientist from India.</h3>
 
 
-🔭 Prashant Kumar is a Data Analyst experienced in helping businesses make data-driven decisions with a strong background in data science and statistics. He is proficient in tools like **SQL**, **Python**, **Power BI**, **AWS**, and **Microsoft Excel**. He is also familiar with **AGILE methodologies** and **Scrum** practices.
+🔭 Prashant Kumar is a Data Analyst experienced in helping businesses make data-driven decisions with a strong background in **data science** and **statistics**. He is proficient in tools like **SQL**, **Python**, **Power BI**, **AWS**, and **Microsoft Excel**. He is also familiar with **AGILE methodologies** and **Scrum** practices.
 
 🏢 I'm currently working as Data Analyst Associate at **Cognizant**, Pune (Dec 2020 – Present).
 
 🎓 B.E. in Mechanical Engineering with first division from **CMR Institute of Technology, Bangalore.**
 
-🌱 I’m currently learning and upskilling myself on **Big Data, Deep Learning concepts.**
+🌱 I’m currently learning and upskilling myself on **Big Data**, **Deep Learning concepts.**
 
 👨‍💻 All of my personal projects that I have worked on are available at [https://prashantkr57.github.io/portfolio/](https://prashantkr57.github.io/portfolio/)
 

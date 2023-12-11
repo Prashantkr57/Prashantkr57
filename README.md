@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, This is the Github Readme for Prashant Kumar, a Data Analyst with experience in Life Science, Healthcare & Insurance domain.</h1>
-<h3 align="center">A passionate Data Scientist from India.</h3>
+<h1 align="center">Hi 👋, This is the Github Readme for Prashant Kumar.</h1>
+<h3 align="center">A passionate Engineer from India.</h3>
 
 
-🔭 Prashant Kumar is a Data Analyst experienced in helping businesses make data-driven decisions with a strong background in **data science** and **statistics**. He is proficient in tools like **SQL**, **Python**, **Power BI**, **AWS**, and **Microsoft Excel**. He is also familiar with **AGILE methodologies** and **Scrum** practices.
+🔭 Prashant Kumar is a SDET. He is also familiar with **AGILE methodologies** and **Scrum** practices.
 
-🏢 I'm currently working as Data Analyst Associate at **Cognizant**, Pune (Dec 2020 – Present).
+🏢 I'm currently working as Associate Test Analyst at **Cognizant**, Pune (Dec 2020 – Present).
 
 🎓 B.E. in Mechanical Engineering with first division from **CMR Institute of Technology, Bangalore.**
 
-🌱 I’m currently learning and upskilling myself on **Big Data**, **Deep Learning concepts.**
+🌱 I’m currently learning and upskilling myself on **AI**, **Machine Learning** concepts.
 
 👨‍💻 All of my personal projects that I have worked on are available at [https://prashantkr57.github.io/portfolio/](https://prashantkr57.github.io/portfolio/)
 
-📝 I regularly writes about data science, machine learning, data analysis articles on [https://medium.com/@Prashantkr57](https://medium.com/@Prashantkr57)
+📝 I regularly writes about data science, machine learning articles on [https://medium.com/@Prashantkr57](https://medium.com/@Prashantkr57)
 
-💬 Ask me about **Data Analysis, SQL, Python, Power BI, Tableau, Machine Learning, Regression, Classification, Neural Networks, Artificial Intelligence, Natural Language Processing.**
+💬 Ask me about **SQL, Python, Manual Testing, Automation Testing, Selenium, Regression Testing, Smoke Tesitng, API Testing, UI Testing.**
 
 📫 How to reach me **praku8875@gmail.com**
 
